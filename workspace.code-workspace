@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "packages/frontend"
+    },
+    {
+      "path": "packages/backend"
+    }
+  ],
+  "settings": {
+    "terminal.integrated.cwd": "${workspaceFolder}"
+  }
+}
